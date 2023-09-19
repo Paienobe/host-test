@@ -2,6 +2,8 @@ import "./App.css";
 
 function App() {
   const hostname = window.location.hostname;
+  console.log(hostname);
+
   return (
     <>
       <div
